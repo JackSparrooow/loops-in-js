@@ -1,0 +1,63 @@
+Q2) What are conditional statements? Explain conditional statements with syntax and examples.
+
+solution:- Conditional statements help you to make a decision based on certain conditions. These conditions are specified by a set of conditional statements having boolean expressions which are evaluated to a boolean value of true or false.
+
+if(expression)
+{
+ //code to be executed
+}
+
+
+--------------------------------------------------------------------------------------------------------------
+
+
+Q3) What are loops, and what do we need them? Explain different types of loops with their syntax and
+examples.
+
+solution:- In computer Programming, a Loop is used to execute a group of instructions or a block of code multiple times, without writing it repeatedly. The block of code is executed based on a certain condition. Loops are the control structures of a program. Using Loops in computer programs simplifies rather optimizes the process of coding.
+
+---------- for loop -----------------
+for(initialization; condition; incrementation or decrementation)
+
+{
+
+Body of Loop;
+
+}
+
+
+----------- while loop -------------
+
+while(condition)
+
+{
+
+Body of the Loop;
+
+}
+
+
+-------------- do while loop-----------
+do
+
+{
+
+Body of the Loop;
+
+} while(condition);
+
+
+--------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
